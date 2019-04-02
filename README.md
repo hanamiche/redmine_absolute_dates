@@ -11,7 +11,7 @@ This Plugin support Japanese environment only!
 Redmineのチケットの作成日、更新日はデフォルトでは
 「今日」からの相対的な日時数で表示されます。(...日前など)
 
-このプラグインはこの日付を通常の日付(yyyy/MM/dd)で表示します。
+このプラグインはこの日付を通常の日付(yyyy/MM/dd hh:mm:ss)で表示します。
 
 インストール
 ---------------------
